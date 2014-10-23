@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://iammartincollins.github.io/sitemap.xml 
